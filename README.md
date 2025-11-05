@@ -11,6 +11,14 @@
 # 💫 About Me:
 
 
+<div align="center">
+
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&width=444&height=55&lines=Full-Stack+Developer+%26+Digital+Creator+I+craft+digital+experiences+that+merge+technical+precision+with+visual+innovation.+As+a+versatile+developer+and+designer%2C+I+bridge+the+gap+between+functionality+and+aesthetics+to+build+engaging+web+solutions.Full-Stack+Developer+%26+Digital+Creator+I+craft+digital+experiences+that+merge+technical+precision+with+visual+innovation.+As+a+versatile+developer+and+designer%2C+I+bridge+the+gap+between+functionality+and+aesthetics+to+build+engaging+web+solutions.)](https://git.io/typing-svg)
+
+
+</div>
+
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/gurujahid.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/YUMJdPtBDR) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@JahidEkbalMallick) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jahidekbalmollick) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@jahidekbalmallick) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Perfect-Warning-7979) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jahidekbal00) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@JAHIDEKBAL01) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@guru-esports) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@jahidekbalmallick-jahidekbalmallick-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahidekbalmallick@gmail.com) 
