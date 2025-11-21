@@ -5,6 +5,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+JAHID+EKBAL+MALLICK)](https://git.io/typing-svg)
 
+<img
+			src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"
+			alt="error image" />
+
 </div>
 
 
