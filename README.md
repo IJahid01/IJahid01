@@ -61,20 +61,20 @@
     </ul>
     <h2 style="border-bottom: 2px solid #ecf0f1; padding-bottom: 0.2em; margin-top: 2em;">💡Design Specialization</h2>
     <ul style="line-height: 1.7;">
-      <li>UI/UX prototyping with Figma (advanced)</li>
-      <li>Adobe Creative Suite virtuoso: Photoshop (advanced), Premiere Pro</li>
-      <li>3D design with Blender</li>
-      <li>Digital advertising &amp; social media content creation</li>
-      <li>YouTube thumbnail design &amp; video production</li>
+      <li>🎨UI/UX prototyping with Figma (advanced)</li>
+      <li>🎬Adobe Creative Suite virtuoso: Photoshop (advanced), Premiere Pro</li>
+      <li>🧊3D design with Blender</li>
+      <li>🌐Digital advertising &amp; social media content creation</li>
+      <li>▶️YouTube thumbnail design &amp; video production</li>
     </ul>
     <h2 style="border-bottom: 2px solid #ecf0f1; padding-bottom: 0.2em; margin-top: 2em;">📦What I Deliver</h2>
     <ul style="line-height: 1.7;">
-      <li>Pixel-perfect responsive websites</li>
-      <li>Interactive web applications</li>
-      <li>User-centric interface designs</li>
-      <li>Engaging social media campaigns</li>
-      <li>Professional video content &amp; thumbnails</li>
-      <li>Custom digital advertising assets</li>
+      <li>📱Pixel-perfect responsive websites</li>
+      <li>🌐Interactive web applications</li>
+      <li>😀User-centric interface designs</li>
+      <li>📰Engaging social media campaigns</li>
+      <li>🎥Professional video content &amp; thumbnails</li>
+      <li>📢Custom digital advertising assets</li>
     </ul>
     <p style="margin-top: 2em; font-size: 1.05em; line-height: 1.7;">
       My workflow combines clean, maintainable code with compelling visuals – ensuring every project achieves both technical excellence and visual impact. Whether building complex web applications or crafting social media content, I solve digital challenges with creativity and precision.
