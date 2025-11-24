@@ -90,8 +90,57 @@
 ## 🌐 Socials:
 
 
+<p align="center">
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/jahidekbalmallick" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  <!--
+	
+	GitHub 
+
+	
+	 <a href="https://github.com/IJahid01" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+	
+	-->
+ 
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/jahid-developer" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 
 
+
+<!-- 
+<p align="center">
+  <a href="https://www.facebook.com/jahidekbalmallick" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://github.com/IJahid01" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jahid-developer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+
+
+<p align="center">
+  <a href="https://www.facebook.com/jahidekbalmallick" target="_blank">
+    <img src="./assets/animated-icons/facebook.gif" width="45" alt="Facebook"/>
+  </a>
+  <a href="https://github.com/IJahid01" target="_blank">
+    <img src="./assets/animated-icons/github.gif" width="45" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jahid-developer" target="_blank">
+    <img src="./assets/animated-icons/linkedin.gif" width="45" alt="LinkedIn"/>
+  </a>
+</p>
+-->
 
 
 <!-- 
