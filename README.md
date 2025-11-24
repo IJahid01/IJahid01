@@ -16,11 +16,15 @@
 			[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+JAHID+EKBAL+MALLICK)](https://git.io/typing-svg)
 
 			
-			
+			<img width="1584" height="396" alt="Abstract Technology Profile LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/51b32d3f-f652-4654-9e7b-8f8c7c560a43" />
+
 			
 			-->
+<img width="1584" height="396" alt="Abstract Technology Profile LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/6d422439-fc00-419a-97a0-3803eac7ea15" />
 
 </div>
+
+
 
 
 # 💻 Tech Stack:
@@ -87,12 +91,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/jahid-developer" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<a href="" target="blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a>
+
 
 
 <!-- 
