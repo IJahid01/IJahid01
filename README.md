@@ -23,13 +23,11 @@
 </div>
 
 
+# 💻 Tech Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,bootstrap,nodejs,bun,nextjs,react,sqlite,figma,xd,photoshop,premierepro)](https://skillicons.dev)
 
 
-
-
-
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/gurujahid.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/YUMJdPtBDR) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@guru-esports) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@jahidekbalmallick-jahidekbalmallick-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahidekbalmallick@gmail.com) 
 
 
 
@@ -85,6 +83,10 @@
 
 
 
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/gurujahid.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/YUMJdPtBDR) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@guru-esports) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@jahidekbalmallick-jahidekbalmallick-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahidekbalmallick@gmail.com) 
+
+
 
 
 <!-- 
@@ -96,9 +98,7 @@ Snake Game Repo View
 </div>
 
 -->
-# 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,bootstrap,nodejs,bun,nextjs,react,sqlite,figma,xd,photoshop,premierepro)](https://skillicons.dev)
 
 <!--
 
