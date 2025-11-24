@@ -41,14 +41,14 @@
     <p style="text-align: center; font-size: 1.2em; margin-bottom: 2em;">
       I craft digital experiences that merge technical precision with visual innovation. As a versatile developer and designer, I bridge the gap between functionality and aesthetics to build engaging web solutions.
     </p>
-    <h2 style="border-bottom: 2px solid #ecf0f1; padding-bottom: 0.2em;">Development Expertise</h2>
+    <h2 style="border-bottom: 2px solid #ecf0f1; padding-bottom: 0.2em;">🧑🏻‍💻Development Expertise</h2>
     <ul style="line-height: 1.7;">
       <li>Frontend mastery: HTML5, CSS3, JavaScript (ES6+)</li>
       <li>Modern frameworks: React, Next.js, TypeScript</li>
       <li>CSS ecosystems: Bootstrap, Tailwind CSS</li>
       <li>Responsive, mobile-first development</li>
     </ul>
-    <h2 style="border-bottom: 2px solid #ecf0f1; padding-bottom: 0.2em; margin-top: 2em;">Design Specialization</h2>
+    <h2 style="border-bottom: 2px solid #ecf0f1; padding-bottom: 0.2em; margin-top: 2em;">💡Design Specialization</h2>
     <ul style="line-height: 1.7;">
       <li>UI/UX prototyping with Figma (advanced)</li>
       <li>Adobe Creative Suite virtuoso: Photoshop (advanced), Premiere Pro</li>
@@ -56,7 +56,7 @@
       <li>Digital advertising &amp; social media content creation</li>
       <li>YouTube thumbnail design &amp; video production</li>
     </ul>
-    <h2 style="border-bottom: 2px solid #ecf0f1; padding-bottom: 0.2em; margin-top: 2em;">What I Deliver</h2>
+    <h2 style="border-bottom: 2px solid #ecf0f1; padding-bottom: 0.2em; margin-top: 2em;">📦What I Deliver</h2>
     <ul style="line-height: 1.7;">
       <li>Pixel-perfect responsive websites</li>
       <li>Interactive web applications</li>
