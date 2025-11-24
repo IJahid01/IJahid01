@@ -87,6 +87,12 @@
 
 
 
+<a href="https://www.linkedin.com/in/jahid-developer" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
 
 
 <!-- 
