@@ -77,7 +77,7 @@
       <li>📢Custom digital advertising assets</li>
     </ul>
     <p style="margin-top: 2em; font-size: 1.05em; line-height: 1.7;">
-      My workflow combines clean, maintainable code with compelling visuals – ensuring every project achieves both technical excellence and visual impact. Whether building complex web applications or crafting social media content, I solve digital challenges with creativity and precision.
+     📝 My workflow combines clean, maintainable code with compelling visuals – ensuring every project achieves both technical excellence and visual impact. Whether building complex web applications or crafting social media content, I solve digital challenges with creativity and precision.
     </p>
   </div>
 </body>
