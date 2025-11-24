@@ -43,10 +43,10 @@
     </p>
     <h2 style="border-bottom: 2px solid #ecf0f1; padding-bottom: 0.2em;">🧑🏻‍💻Development Expertise</h2>
     <ul style="line-height: 1.7;">
-      <li>Frontend mastery: HTML5, CSS3, JavaScript (ES6+)</li>
-      <li>Modern frameworks: React, Next.js, TypeScript</li>
-      <li>CSS ecosystems: Bootstrap, Tailwind CSS</li>
-      <li>Responsive, mobile-first development</li>
+      <li>⁴⁰⁴Frontend: HTML5, CSS3, JavaScript (ES6+)</li>
+      <li>🛠️Modern frameworks: React, Next.js, TypeScript</li>
+      <li>♻️CSS ecosystems: Bootstrap, Tailwind CSS</li>
+      <li>📱Responsive, mobile-first development</li>
     </ul>
     <h2 style="border-bottom: 2px solid #ecf0f1; padding-bottom: 0.2em; margin-top: 2em;">💡Design Specialization</h2>
     <ul style="line-height: 1.7;">
