@@ -5,7 +5,7 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=31&duration=5050&pause=1000&color=0060FF&random=true&width=435&lines=HI+%F0%9F%91%8B+I+AM+JAHID+EKBAL+MALLICK)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=5050&pause=1000&color=0060FF&random=true&width=435&lines=HI+%F0%9F%91%8B+I+AM+JAHID+EKBAL+MALLICK)](https://git.io/typing-svg)
 
 <!-- <img
 			src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"
