@@ -98,7 +98,7 @@ Snake Game Repo View
 -->
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,bootstrap,nodejs,bun,nextjs,react,sqlite,figma,xd,photoshop,premierepro,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,bootstrap,nodejs,bun,nextjs,react,sqlite,figma,xd,photoshop,premierepro)](https://skillicons.dev)
 
 <!--
 
