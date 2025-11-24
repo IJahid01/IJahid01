@@ -141,3 +141,8 @@ Snake Game Repo View
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+  ## 📧 For Business Inquiries
+  ✅ ➤ jahidekbal.io@gmail.com
+
