@@ -198,3 +198,4 @@ Snake Game Repo View
   ## 📧 For Business Inquiries
   ✅ ➤ jahidekbal.io@gmail.com
 
+![](https://komarev.com/ghpvc/?username=jahid-ekbal)
