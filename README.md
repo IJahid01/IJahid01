@@ -90,7 +90,7 @@
 
 <p align="center">
   <!-- Facebook -->
-  <a href="https://www.facebook.com/jahidekbalmallick" target="_blank">
+  <a href="https://www.facebook.com/jahid.developer" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
   </a>
   <!--
@@ -100,7 +100,7 @@
 	
 	 <a href="https://github.com/IJahid01" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
+
 	
 	-->
  
@@ -196,6 +196,29 @@ Snake Game Repo View
 
 
   ## 📧 For Business Inquiries
-  ✅ ➤ jahidekbal.io@gmail.com
+  ✅ ➤ jahidekbal.io@gmail.com  
 
+
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVAqPdbMyIR1mZQSvWi53Yg)  ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVAqPdbMyIR1mZQSvWi53Yg)  ![GitHub followers](https://img.shields.io/github/followers/jahid-ekbal)   ![GitHub User's stars](https://img.shields.io/github/stars/jahid-ekbal)
+   
 ![](https://komarev.com/ghpvc/?username=jahid-ekbal)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!--
+
+  ![](https://github-visitor-counter-tau.vercel.app/api?username=jahid-ekbal)  -->
+
+
