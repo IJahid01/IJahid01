@@ -1,9 +1,70 @@
 
-
+<!--
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=5050&pause=1000&color=0060FF&random=true&width=435&lines=HI+%F0%9F%91%8B+I+AM+JAHID+EKBAL+MALLICK)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=5050&pause=1000&color=0060FF&random=true&width=435&lines=HI+%F0%9F%91%8B+I+AM+JAHID+EKBAL+MALLICK)](https://git.io/typing-svg)  	-->
+
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm JAHID EKBAL MALLICK</h1>
+<h3 align="center">A passionate tech enthusiast from India</h3>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid-ekbal&label=Profile%20views&color=0e75b6&style=flat" alt="jahid-ekbal" /> </p> 
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahid-ekbal" alt="jahid-ekbal" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/jahidekbal01" target="blank"><img src="https://img.shields.io/twitter/follow/jahidekbal01?logo=twitter&style=for-the-badge" alt="jahidekbal01" /></a> </p> -->
+
+- 🔭 I’m currently working on [My portfolio website](https://github.com/jahid-ekbal/jahid-ekbal-mallick)
+
+- 🌱 I’m currently learning **web penetration testing**
+
+- 👯 I’m looking to collaborate on [FLASH R](https://github.com/jahid-ekbal/flash-r)
+
+- 👨‍💻 All of my projects are available at [jahidekbal.dev](jahidekbal.dev)
+
+- 💬 Ask me about **react or Next.js**
+
+- 📫 How to reach me **jahidekbalmallick@gmail.com**
+
+- ⚡ Fun fact **I think we are become a vibe coder 😂**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/jahid-ekbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jahid-ekbal" height="30" width="40" /></a>
+<a href="https://dev.to/jahid_developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jahid_developer" height="30" width="40" /></a>
+<a href="https://twitter.com/jahidekbal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahidekbal01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jahid-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahid-developer" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/jahid-ekbal-mallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jahid-ekbal-mallick" height="30" width="40" /></a>
+<a href="https://codesandbox.com/ahidekbalmallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ahidekbalmallick" height="30" width="40" /></a>
+<a href="https://kaggle.com/jahidekbalmallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jahidekbalmallick" height="30" width="40" /></a>
+<a href="https://fb.com/jahid.developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahid.developer" height="30" width="40" /></a>
+<a href="https://instagram.com/jahid.developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahid.developer" height="30" width="40" /></a>
+<a href="https://www.behance.net/jahidemallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jahidemallick" height="30" width="40" /></a>
+<a href="https://medium.com/@jahidekbalmallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jahidekbalmallick" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@guru-esports" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@guru-esports" height="30" width="40" /></a>
+<a href="https://discord.gg/f8dcB5nDyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="f8dcB5nDyh" height="30" width="40" /></a>
+</p>
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahid-ekbal&show_icons=true&locale=en&layout=compact" alt="jahid-ekbal" /></p> -->
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahid-ekbal&show_icons=true&locale=en" alt="jahid-ekbal" /></p> -->
+<!--
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahid-ekbal&" alt="jahid-ekbal" /></p> -->
+
+
+
+
+
 
 <!-- <img
 			src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"
@@ -18,10 +79,12 @@
 
 			
 			-->
-<img width="1584" height="396" alt="Abstract Technology Profile LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/6d422439-fc00-419a-97a0-3803eac7ea15" />
+		
+			
+<!-- <img width="1584" height="396" alt="Abstract Technology Profile LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/6d422439-fc00-419a-97a0-3803eac7ea15" />
 
 </div>
-
+	-->
 
 
 
@@ -35,7 +98,7 @@
 
 
 
-# 💫 About Me:
+<!-- # 💫 About Me:
 
 
 
@@ -88,11 +151,11 @@
 ## 🌐 Socials:
 
 
-<p align="center">
+<p align="center"> -->
   <!-- Facebook -->
-  <a href="https://www.facebook.com/jahid.developer" target="_blank">
+<!--  <a href="https://www.facebook.com/jahid.developer" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
-  </a>
+  </a>  -->
   <!--
 	
 	GitHub 
@@ -105,10 +168,10 @@
 	-->
  
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/jahid-developer" target="_blank">
+ <!--  <a href="https://www.linkedin.com/in/jahid-developer" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-</p>
+</p> -->
 
 
 
